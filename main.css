@@ -1,0 +1,15 @@
+img{
+    height: 250px;
+    width: 250px;
+    margin-left: 6opx;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+p{
+    color: aliceblue;
+    font-style: italic;
+}
+body{
+    background-image: url("images/msd\ wall2.jpg");
+    
+}
